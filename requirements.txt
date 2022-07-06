@@ -8,7 +8,7 @@ Django==1.11.2
 django-toolbelt==0.0.1
 gunicorn==19.7.1
 idna==2.5
-lxml==3.7.3
+lxml==4.9.1
 oauthlib==2.0.2
 psycopg2==2.7.1
 pytz==2017.2
